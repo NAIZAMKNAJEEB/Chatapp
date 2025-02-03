@@ -7,7 +7,7 @@ import 'jquery/dist/jquery.min.js';
 import $ from 'jquery';
 
 
-const socket = io("http://localhost:3001");
+const socket = io("https://chatapp-frontend-yag3.onrender.com");
 
 
 
